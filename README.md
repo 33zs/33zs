@@ -1,4 +1,9 @@
 ## 👋 Hi there, I'm Zishan Xu
+![Static Badge](https://img.shields.io/badge/python-python)
+![Static Badge](https://img.shields.io/badge/html-html)
+![Static Badge](https://img.shields.io/badge/java-java)
+
+
 <!--
 **33zs/33zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
