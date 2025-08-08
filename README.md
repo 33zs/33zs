@@ -28,7 +28,7 @@ I’m passionate about exploring the cutting edge of **Artificial Intelligence**
 ---
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,docker,html,java,git,linux,vscode&perline=6">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,html,java,git,linux,vscode&perline=6">
 </p>
 
 ---
