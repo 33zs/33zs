@@ -18,12 +18,13 @@ I’m passionate about exploring the cutting edge of **Artificial Intelligence**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=33zs&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33zs&layout=compact&theme=radical" height="165">
+ <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33zs&layout=compact&theme=radical" height="165">-->
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=33zs&theme=radical" height="165">
 </p>
+-->
 <!-- 
 ---
 ### 🛠 Tech Stack
