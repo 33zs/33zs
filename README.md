@@ -1,5 +1,6 @@
 <!-- 动态 AI 背景横幅 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=250&section=header&text=Zishan%20Xu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Enthusiast%20|%20LLMs%20%26%20RL%20%26%20CV&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=250&section=header&text=Zishan%20Xu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Enthusiast%20%7C%20LLMs%20%26%20RL%20%26%20CV&descAlignY=55&descAlign=50)
+
 
 ## 👋 Hi there, I'm Zishan Xu
 
