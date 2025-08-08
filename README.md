@@ -11,7 +11,7 @@ I’m passionate about exploring the cutting edge of **Artificial Intelligence**
 - 🧠 **Large Language Models (LLMs)** – architectures, fine-tuning, and prompt engineering  
 - 🎯 **Reinforcement Learning (RL)** – intelligent decision-making and control  
 - 👀 **Computer Vision (CV)** – image segmentation 
-  - Decoupling Continual Semantic Segmentation 📄 [Paper](https://arxiv.org/pdf/2508.05065) | 💻 [Code](https://arxiv.org/pdf/2508.05065) | 🌐 [Project Page](https://euyis1019.github.io/Decoupling-Continual-Semantic-Segmentation/)
+  - Decoupling Continual Semantic Segmentation 📄 [Paper](https://arxiv.org/pdf/2508.05065) | 💻 [Code](https://arxiv.org/pdf/2508.05065) | 🌐 [Project Page](https://github.com/euyis1019/Decoupling-Continual-Semantic-Segmentation)
 ---
 
 ### 📊 GitHub Stats & Activity
