@@ -24,7 +24,7 @@ I’m passionate about exploring the cutting edge of **Artificial Intelligence**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=33zs&theme=radical" height="165">
 </p>
-
+<!-- 
 ---
 ### 🛠 Tech Stack
 <p align="center">
@@ -33,4 +33,4 @@ I’m passionate about exploring the cutting edge of **Artificial Intelligence**
 
 ---
 
-> 💭 *"Code, experiment, fail, learn, repeat."*
+💭 *"Code, experiment, fail, learn, repeat."* -->
