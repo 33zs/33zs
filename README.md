@@ -9,10 +9,9 @@
 🎓 Incoming Joint Ph.D. Student at SJTU&Teleai (starting in 2026).
 
 💡 I’m passionate about exploring the cutting edge of **Artificial Intelligence**, focusing on:  
-- 🧠 **Large Language Models (LLMs)** – architectures, fine-tuning, and prompt engineering  
-- 🎯 **Reinforcement Learning (RL)** – intelligent decision-making and control  
-- 👀 **Computer Vision (CV)** – image segmentation 
-  - Decoupling Continual Semantic Segmentation 📄 [Paper](https://arxiv.org/pdf/2508.05065) | 💻 [Code](https://github.com/euyis1019/Decoupling-Continual-Semantic-Segmentation)| 🌐 [Project Page](https://euyis1019.github.io/Decoupling-Continual-Semantic-Segmentation/)
+- 🧠 **Large Language Models (LLMs)** 
+- 🎯 **Reinforcement Learning (RL)** 
+- 👀 **Computer Vision (CV)**
 ---
 
 ### 📊 GitHub Stats & Activity
