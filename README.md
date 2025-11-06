@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Zishan Xu
+## 👋 Hi there, I'm Zishan Xu(徐子珊)
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?logo=html5)
