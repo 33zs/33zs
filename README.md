@@ -6,7 +6,7 @@
 
 📧 [![Email](https://img.shields.io/badge/Email-xuzishan%40m.scnu.edu.cn-blue)](mailto:xuzishan@m.scnu.edu.cn)  
 
-🎓 Incoming Joint Ph.D. Student at SJTU&Teleai (starting in 2026).
+🎓 Incoming Joint Ph.D. Student at SJTU (starting in 2026).
 
 💡 I’m passionate about exploring the cutting edge of **Artificial Intelligence**, focusing on:  
 - 🧠 **Large Language Models (LLMs)** 
