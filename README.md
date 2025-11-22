@@ -1,9 +1,5 @@
 ## 👋 Hi there, I'm Zishan Xu(徐子珊)
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?logo=html5)
-![Java](https://img.shields.io/badge/Java-Intermediate-red?logo=java)
-
 📧 [![Email](https://img.shields.io/badge/Email-xuzishan%40m.scnu.edu.cn-blue)](mailto:xuzishan@m.scnu.edu.cn)  
 
 🎓 Incoming Joint Ph.D. Student at SJTU (starting in 2026).
